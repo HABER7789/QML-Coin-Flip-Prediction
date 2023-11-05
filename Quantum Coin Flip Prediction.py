@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov  5 03:08:47 2023
-
-@author: patel
-"""
 from qiskit import QuantumCircuit, Aer, execute
 
 # first create a Quantum Circuit with a single Qubit
