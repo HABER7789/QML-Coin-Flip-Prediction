@@ -8,3 +8,7 @@ Creation of a simple Quantum circuit that simulates a quantum coin flip and use 
 - The project also has a simple Graphical User Interface (GUI) built inside the python code itself using the library 'tkinter' and finally a graphical representaion of the Outcomes.
 
 The project was simple exploration of quantum computing and machine learning. The project is also relatively simpler in comparison to the complex quantum ML algorithms, however these are some baby steps that are to be done before jumping straight into complex algorithms. Feel free to use the code for learning purposes. 
+
+I have attached three files, there are two python files, Quantum Coin Flip Prediction.py and QCFP GUI.py 
+- Quantum Coin Flip Prediction.py: This file is a step by step approach to the project, with necessary comment lines for better understanding.
+- QCFP GUI.py: This file has the code for GUI as well as the visualization of the outcomes, this does not have step by step comment lines, however it can be easily understood after going throught the first python file provided in the repository.
